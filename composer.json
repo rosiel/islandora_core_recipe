@@ -1,0 +1,12 @@
+{
+  "name": "islandora/islandora_core_recipe",
+  "description": "Configuration required by islandora module.",
+  "type": "drupal-recipe",
+  "require": {
+    "drupal/core": "^10.2 | ^11",
+    "drupal/islandora": "^2", 
+  },
+  "suggest": {
+  },
+  "license": "GPL-2.0-or-later"
+}

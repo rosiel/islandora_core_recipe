@@ -1,0 +1,5 @@
+name: 'Islandora Core Recipe'
+description: 'Configuration required by Islandora module.'
+type: 'islandora'
+install:
+  - islandora
